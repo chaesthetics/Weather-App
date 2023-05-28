@@ -4,7 +4,6 @@ import { faWind } from '@fortawesome/free-solid-svg-icons'
 import React from "react";
 
 function Main() {
-
     return (
         <div class="bg-zinc-900 h-screen flex">
             <div class="bg-gradient-to-r rounded-tl-lg rounded-tr-lg rounded-br-lg rounded-bl-lg w-4/12 h-3/4 m-auto from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90% ...">
